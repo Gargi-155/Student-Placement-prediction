@@ -18,7 +18,7 @@ The application is built using **Flask** and powered by a **Random Forest Classi
 ## 🚀 Live Demo
 
 **Live Application:**
-[https://student-placement-predictor-app-6rll.onrender.com](https://student-placement-predictor-app-6rll.onrender.com)
+[https://student-placement-predictor-app-6rll.onrender.com](https://student-placement-prediction-4a1f.onrender.com/)
 
 **GitHub Repository:**
 [https://github.com/YOUR_USERNAME/Student-Placement_Predictor_App](https://github.com/YOUR_USERNAME/Student-Placement_Predictor_App)
